@@ -3,7 +3,7 @@ This is a project for udacity nanodegree Cloud dev-ops Engineer about CI/CD with
 
 ### DESCRIPTION
 This project deploys a HTML into a S3 bucket automatically.
-**jenkinsfile is the configuration file to create a pipeline and do the following steps:
+**jenkinsfile** is the configuration file to create a pipeline and do the following steps:
 1. Use Lint to validate the index.HTML file.
 2. Upload the index.HTML file into  S3 bucket.
 
